@@ -6,6 +6,13 @@
 
 > This document describes only systems that exist in the source code. Every algorithm, formula and code path below was extracted from the actual project files. Items that are partial, unused or unverifiable are labeled explicitly — see the **Verification Legend**.
 
+<img width="1095" height="629" alt="image" src="https://github.com/user-attachments/assets/ba57099e-9b18-4707-b02c-101fa9aedc60" />
+<img width="1099" height="626" alt="image" src="https://github.com/user-attachments/assets/65a97075-cf1d-4189-bdce-d4ea6f17d2e8" />
+<img width="1093" height="624" alt="image" src="https://github.com/user-attachments/assets/2faf0abf-d950-41d5-8e0a-32d34606458d" />
+<img width="1097" height="619" alt="image" src="https://github.com/user-attachments/assets/092ef3ef-fc76-4152-9016-33ad9cbad5cd" />
+<img width="1097" height="624" alt="image" src="https://github.com/user-attachments/assets/8865cbb0-29a1-41b0-a1cb-a9bbba9b92d9" />
+
+
 ---
 
 ## Verification Legend
